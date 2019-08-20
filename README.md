@@ -1,3 +1,3 @@
 # tugas-jobsheet-awal
-#hasil\satu
-![Alt Text](https://github.com/rendiwibawa/tugas-jobsheet-awal/blob/master/netbeans%20CELCIUS_FARENHEIT.png "hasil\satu")
+# Mengubah Celcius menjadi farenheit
+![Alt Text](https://github.com/rendiwibawa/tugas-jobsheet-awal/blob/master/netbeans%20CELCIUS_FARENHEIT.png "Mengubah Celcius menjadi farenheit")
